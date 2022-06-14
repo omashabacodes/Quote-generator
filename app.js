@@ -9,7 +9,6 @@ let quotes=[
     'Once we believe in ourselves, we can risk curiosity, wonder, spontaneous delight, or any experience that reveals the human spirit.',
     'The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.',
     'Be tolerant of those who are lost on their path. Ignorance, conceit, anger, jealousy, and greed stem from a lost soul. Pray that they will find guidance.'
-    'Forgive the past. It is over. Learn from it and let go. People are constantly changing and growing. Do not cling to a limited, disconnected, negative image of a person in the past. See that person now. Your relationship is always alive and changing.'
     'We are all connected; To each other, biologically. To the earth, chemically. To the rest of the universe atomically.'
     ];
 
